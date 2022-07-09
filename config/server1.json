@@ -1,0 +1,19 @@
+{
+  "debug": false,
+  "token": "NzY1ODgwOTk3MTUzNDcyNTM4.GGtkm-.1alRvN3rKX3VMiTCoLWLsJ3jpqkO3PbqrH5ago",
+  "apiSite": 3,
+  "apiUrl": "https://api.battlemetrics.com/servers/13267071",
+  "serverIp": "45.13.227.57",
+  "serverPort": "28030",
+  "enableRcon": "1",
+  "rconhost": "",
+  "rconport": "7787",
+  "rconpass": "",
+  "prefix": "!",
+  "roles": [
+    "Administrator",
+    "admins"
+  ],
+  "queueMessage": "currently waiting in queue.",
+  "updateInterval": "5"
+}
